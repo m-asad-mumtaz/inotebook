@@ -1,5 +1,5 @@
 iNoteBook Project:
-
+Backend Dependencies/Packages
 1) npx create-react-app inotebook
 2) create a backend folder
 3) In backend folder terminal: npm init
@@ -8,3 +8,7 @@ iNoteBook Project:
 6) Install Express Validator to validate the inputs: npm i --save express-validator
 7) Install BCryptJS to secure the passwords: npm i bcryptjs
 8) Install JSON Web Token (JWT): npm i jsonwebtoken
+
+Frontend Dependencies/Packages
+1) Install react-router-dom
+2) To run server & client simultaneously on terminal you can use "Concurrently" package: npm i concurrently
